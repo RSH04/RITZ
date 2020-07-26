@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4E68-B8EC
+
+ Directory of C:\Users\rithik\Desktop\projects
+
+07/26/2020  03:41 PM    <DIR>          .
+07/26/2020  03:41 PM    <DIR>          ..
+07/26/2020  03:41 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  51,900,833,792 bytes free
